@@ -31,5 +31,9 @@ The CLI automatically supports switching between:
 - Ukrainian
 - Russian
 
+## Support the Project ❤️
+If this tool helped you boost your FPS and win more gunfights, consider supporting the development!
+- [Support me on Patreon](https://www.patreon.com/cw/Bobust)
+
 ## Disclaimer
 Always back up your Windows registry before making system-wide changes! The optimizer automatically creates a backup of your `client.cfg` file before modifying it.
